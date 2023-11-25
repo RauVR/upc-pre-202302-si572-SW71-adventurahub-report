@@ -1,3 +1,4 @@
+## Usar links de tabla de contenidos para ver ultima version de cada capitulo
 <div align="center">
   <img src="https://github.com/WX82-06-Arquitectura-de-Swe-Emergentes/upc-pre-202302-si572-SW71-adventurahub-report/blob/main/resources/UPC.png" alt="UPC">
 </div>
