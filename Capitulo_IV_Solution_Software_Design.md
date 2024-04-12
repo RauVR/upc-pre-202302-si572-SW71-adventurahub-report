@@ -1,4 +1,5 @@
 ## 4.1. Strategic-Level Attribute-Driven Design
+
 ### 4.1.1. Design Purpose
 
 Para describir correctamente el Design Purpose de AdventureHub, es importante tener en cuenta los siguientes puntos:
